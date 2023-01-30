@@ -25,7 +25,6 @@
 
 ---
 ### ✅ Usuarios
-Cada equipo tendrá un código y contraseña reasignado, para que los integrantes puedan iniciar sesión y empezar a hacer movimientos.
 
 
 - Ver el menú actualizado día con día
