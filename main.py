@@ -79,7 +79,7 @@ async def Login_Add(
         "usuario": "admin1",
         "permiso": "admin",
         "contraseña": "admin123"
-        }),
+        }),       
     ):
      Usuarios.append(usuario.dict())
      return usuario
