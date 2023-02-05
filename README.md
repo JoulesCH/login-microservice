@@ -19,6 +19,9 @@
     <a href="#">
         <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
     </a>
+  <a href="#">
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    </a>
 </p>
 
 **Los usuarios y administrativos de la cafetería tendrán acceso a esta plataforma, cada uno con sus respectivas actividades que podrá realizar dentro de ella. Esto con el fin de mejorar el servicio y experiencia en nuestra cafeteria.**
